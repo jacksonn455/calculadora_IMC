@@ -6,4 +6,4 @@ Calculadora de IMC
 
 --------------------
 
-https://github.com/jacksonn455/calculadora_IMC/blob/master/calc.png
+![](https://github.com/jacksonn455/calculadora_IMC/blob/master/calc.png)
